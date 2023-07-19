@@ -9,51 +9,93 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Department of Industrial Design, School of Mechanical Engineering, Xi’an Jiaotong University, 2014-2018
+* M.S. in State Key Laboratory of Automotive Simulation and Control, College of Automotive Engineering, Jilin University, 2018-2021
 
-Work experience
+RESEARCH INTERESTS
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Vehicle aerodynamics
+* Reduced Order Model（POD & DMD）based flow field analysis
+* Machine learning & Quantum Computing (being investigated) based optimization & Active flow control
+* CFD commercial/open-source software redevelopment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+RESEARCH EXPERIENCE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Master degree’ s
+* Interdisciplinary application of aerodynamics-automated workflow
+  * Consolidated the aerodynamics-automated workflow into self-developed interactive software and applied them to industrial fields.
+  * Developed an Automated Modeling Platform for Simplified Wheel (AMPSW) based on Rhinoceros 6/Beta ANSA/STAR-CCM+.
 
-Publications
+* Evaluating the time-averaged/transient flow field and aerodynamic forces on the isolated rotating tire
+  * Applied the Detached Eddy Simulation and Slide Mesh methods to simulate the transient flow field around the rotating isolated wheel.
+  * Made a POD-ROM based transient flow field analysis.
+  * Compared the aerodynamic effects of different spokes based on AMPSW.
+
+* Establishment of a new adaptive optimization method on vehicle aerodynamics based on machine learning
+  * Applied the Particle Swarm Optimization (PSO) methods into the self-adjusting process of the hyper-parameters of the Least Square SVR (LSSVR) and obtained the PSO-LSSVR model.
+  * Modified the iteration of a previous adaptive optimization method based on obtained PSO-LSSVR approximation model.
+  * Implemented the PSO-LSSVR adaptive optimization method to the rapid optimization of boat-tail of GTS model.
+
+* Bachelor degree’ s
+* Application of a bionic-aerodynamic design in the body of semi-truck
+  * Designed a truck body with extremely low aerodynamic drag (i.e., about 40% of the aerodynamic drag of traditional ones).
+  * Analyzed drag reduction mechanism by using CFD.
+  * Validated the simulation by using the wind tunnel test.
+
+PUBLICATIONS
+======
+* X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI)
+* Y. H. Zhang, X. J. Hu, Z. Hui, Y. C. Liu et al. ‘Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model,’ Physics of Plasmas 28, 2021:023504. (SCI)
+* Y. H. Zhang, X. J. Hu, W. Lan, Y. C. Liu et al. ‘Application of omega vortex identification method in cavity buffeting noise,’ Journal of Hydrodynamics 33, 2021: 259-270. (SCI)
+* Y. H. Zhang, X. J. Hu, Y. C. Liu, et al. ‘Experimental research on the breakdown characteristics of SDBD-PA based on regression model,’ Journal of Mechanical Engineering, 2021. (Accepted, in Chinese, EI)
+* X. J. Hu, Z. Q. Zhang, J. C. Li, Y. C. Liu, et al. ‘Structure optimization of the vacuum nozzle based on interval multi-objective optimization algorithm,’ Journal of Jilin University (Engineering and Technology Edition) 50, 2020: 1991-1997. (in Chinese, EI)
+
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+PATENTS & SOFTWARE
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* G. L. Hu, L. Sun, D. Pang, Y. C. Liu, et al. Multi-layer machine for coin sorting and packaging (Chinese Invention, CN106530477B)
+* Y. C. Liu, X. J. Hu, et al. A kind of electric moving system for the lead screw balance stand of automobile wind tunnel (Chinese Utility Model, CN209198044U)
+* Y. C. Liu, X. J. Hu, et al. A kind of flexible vehicle platform for wind tunnel test with active rotating wheels (Chinese Utility Model, CN211147983U)
+* Y. C. Liu. 4WS system based on double-stacking steering wheel (Chinese Utility Model, CN203228844U)
+* X. J. Hu, Y. C. Liu, et al. ABAQUS Subroutine generator for simulation of temperature rise in brake disc v1.0 (Chinese Software Copyright, 2019SR1373748)
+* X. J. Hu, Y. C. Liu, et al. Automated modeling software for wheel with fan-style spoke v1.0 (Chinese Software Copyright, 2019SR1373741)
+* X. J. Hu, Y. C. Liu, et al. Calculation software for CFD boundary layer v1.0 (Chinese Software Copyright, 2019SR1415211)
+
+TECHNICAL SKILLS
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Computer Skills
+  * Computer-aided design/engineering: such as CATIA, OpenFOAM, STAR-CCM+, and ANSYS Fluent.
+  * Programming languages and open-source framework: Python, MATLAB, Taichi, PyTorch, Paddle Quantum.
+  * Knowledge of Object-Oriented Programming.
+  * Knowledge of FDM 3D printing.
+* Experimental Skills
+  * Proficient in wind tunnel tests.
+  * Capable of measuring forces based on high-resolution balance, pressure based on pressure scanner, and fluid flow based on PIV.
+
+LANGUAGES
 ======
-* Currently signed in to 43 different slack teams
+* English (IELTS 6.0; CEFR-B2)
+* Japanese (J.TEST E-class; CEFR-A2)
+* Chinese (Native; CEFR-C2)
+
+FELLOWSHIPS & AWARDS
+======
+* Second-class Outstanding Postgraduate Scholarship of Jilin University, 2020
+* Second prize at the province level, the 12th Certificate Authority Cup Mathematical Contest in Modeling, 2019
+* Outstanding Graduate Award of Xi’an Jiaotong University, 2018
+* Taiwan HIWIN Scholarship, 2017
+* First prize at the national level, the 7th National Undergraduate Mechanical Innovative Design Competition, 2016
+* Third prize at the national level, the 28th China Adolescents Science & Technology Innovation Contest, 2013
+
+WORKING EXPERIENCE
+======
+* Product Planning Engineer, Department of Product Planning, CHANGAN AUTO, 2021-Present
+* Intern Automotive Body Engineer, SAIC MOTOR, 2017
+* Summer Student, Graduate School of Engineering, Japan, 2016
