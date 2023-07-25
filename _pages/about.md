@@ -27,5 +27,8 @@ This is the path of my experience in Fluid Mechanics. Although the results are s
 
 When the foundation is strong enough, eyesight and direction are even more important, and only by constantly beating the frontier with the further frontier can we never be defeated.
 
-
+[1] Finn, A. (2011). Jungian analytical theory. In D. Capuzzi & D. R. Gross (Eds.), Counseling and psychotherapy (pp. 77–94). American Counseling Association.
+[2] X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI).
+[3] Y. C. Liu, “Research on aerodynamic characteristics of rotating isolated wheel based on parametric modelling,” Jilin University, (2021).
+[4] X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI).
 
