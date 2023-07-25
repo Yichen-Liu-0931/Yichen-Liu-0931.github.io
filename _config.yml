@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yichen Liu / Site Title"
+title                    : "Yichen Liu / Homepage"
 title_separator          : "-"
 name                     : &name "Yichen Liu"
 description              : &description "personal description"
