@@ -93,3 +93,7 @@ WORKING EXPERIENCE
 * Product Planning Engineer, Department of Product Planning, CHANGAN AUTO, 2021-Present
 * Intern Automotive Body Engineer, SAIC MOTOR, 2017
 * Summer Student, Graduate School of Engineering, Japan, 2016
+
+DOWNLOAD CV
+======
+* [This is Yichen Liu's CV(PDF)](../files/CV_Yichen%20Liu_2023.pdf)
