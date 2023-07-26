@@ -46,7 +46,7 @@ RESEARCH EXPERIENCE
 
 PUBLICATIONS
 ======
-* X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI)
+* [X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI)](files/Application%20of%20Omega%20vortex%20identification%20method%20in%20cavity%20buffeting%20noise.pdf)
 * Y. H. Zhang, X. J. Hu, Z. Hui, Y. C. Liu et al. ‘Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model,’ Physics of Plasmas 28, 2021:023504. (SCI)
 * Y. H. Zhang, X. J. Hu, W. Lan, Y. C. Liu et al. ‘Application of omega vortex identification method in cavity buffeting noise,’ Journal of Hydrodynamics 33, 2021: 259-270. (SCI)
 * Y. H. Zhang, X. J. Hu, Y. C. Liu, et al. ‘Experimental research on the breakdown characteristics of SDBD-PA based on regression model,’ Journal of Mechanical Engineering, 2021. (Accepted, in Chinese, EI)
