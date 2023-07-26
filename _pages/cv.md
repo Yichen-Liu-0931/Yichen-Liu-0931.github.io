@@ -46,17 +46,11 @@ RESEARCH EXPERIENCE
 
 PUBLICATIONS
 ======
-* [X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI)](../files/Application%20of%20Omega%20vortex%20identification%20method%20in%20cavity%20buffeting%20noise.pdf)
-* Y. H. Zhang, X. J. Hu, Z. Hui, Y. C. Liu et al. ‘Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model,’ Physics of Plasmas 28, 2021:023504. (SCI)
-* Y. H. Zhang, X. J. Hu, W. Lan, Y. C. Liu et al. ‘Application of omega vortex identification method in cavity buffeting noise,’ Journal of Hydrodynamics 33, 2021: 259-270. (SCI)
+* [X. J. Hu, Y. C. Liu, et al. ‘Optimization of low aerodynamic drag boat-tail of GTS model based on adaptive approximation model,’ Journal of South China University of Technology (Natural Science Edition) 49, 2021: 38-46. (in Chinese, EI)](../files/Optimization%20for%20Low%20Aerodynamic%20Drag%20Boat-Tail%20of%20GTS%20Model%20Based%20on%20Adaptive%20Approximation%20Model.pdf)
+* [Y. H. Zhang, X. J. Hu, Z. Hui, Y. C. Liu et al. ‘Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model,’ Physics of Plasmas 28, 2021:023504. (SCI)](../files/Parameter%20interval%20optimization%20of%20the%20DBD%20plasma%20actuator%20based%20on%20orthogonal%20experiment%20and%20RBF%20neural%20network%20approximation%20model.pdf)
+* [Y. H. Zhang, X. J. Hu, W. Lan, Y. C. Liu et al. ‘Application of omega vortex identification method in cavity buffeting noise,’ Journal of Hydrodynamics 33, 2021: 259-270. (SCI)](../files/Application%20of%20Omega%20vortex%20identification%20method%20in%20cavity%20buffeting%20noise.pdf)
 * Y. H. Zhang, X. J. Hu, Y. C. Liu, et al. ‘Experimental research on the breakdown characteristics of SDBD-PA based on regression model,’ Journal of Mechanical Engineering, 2021. (Accepted, in Chinese, EI)
 * X. J. Hu, Z. Q. Zhang, J. C. Li, Y. C. Liu, et al. ‘Structure optimization of the vacuum nozzle based on interval multi-objective optimization algorithm,’ Journal of Jilin University (Engineering and Technology Edition) 50, 2020: 1991-1997. (in Chinese, EI)
-
-PUBLICATIONS
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 PATENTS & SOFTWARE
 ======
