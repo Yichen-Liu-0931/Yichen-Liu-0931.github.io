@@ -1,0 +1,11 @@
+---
+title: "Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model"
+collection: publications
+permalink: /publication/Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model
+date: 2021-02-02
+venue: 'Physics of Plasmas'
+citation: '	Y. H. Zhang, X. J. Hu, Z. Hui, Y. C. Liu et al. ‘Parameter interval optimization of the DBD plasma actuator based on orthogonal experiment and RBF neural network approximation model,’ Physics of Plasmas 28, 2021:023504.'
+---
+To further improve the performance of the dielectric barrier discharge-plasma actuator (DBD-PA) and to ensure the convenience of excita-tion intensity adjustment, the parameters of the DBD-PA were subjected to interval optimization on the basis of an orthogonal experiment and the radial basis function (RBF) neural network approximation model. The parameters of the DBD-PA included electrode gap d1, exposed electrode width d2, covered electrode width d3, frequency f, and voltage peak-to-peak value Vpp. The maximum velocity Umax induced by DBD-PA was taken as the target variable. Orthogonal analysis results showed that the inﬂuence of Vpp on Umax was highly signiﬁcant, whereas d1 had some inﬂuence and the other three parameters’ inﬂuence was not signiﬁcant. On the basis of the orthogonal experi-ment results, an RBF neural network approximate model was established. Through two groups of randomized experiments, the prediction error of the approximate model is veriﬁed to be within 3%. The interval optimization algorithm was used to optimize the parameters of the DBD-PA with Vpp as the uncertain variable. The optimal parameter combination of deterministic variables obtained by optimization is d1 ¼ 0 mm, d2 ¼ 13 mm, d3 ¼ 20 mm, and f ¼ 8.6 kHz. Under different Vpp, the performance of the DBD-PA greatly improved in the optimal parameter combination, and the average increase in Umax was about 0.52 m/s.
+
+[Download paper here]([../files/Parameter%20interval%20optimization%20of%20the%20DBD%20plasma%20actuator%20based%20on%20orthogonal%20experiment%20and%20RBF%20neural%20network%20approximation%20model.pdf)
