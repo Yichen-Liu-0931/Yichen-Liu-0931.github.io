@@ -1,0 +1,11 @@
+---
+title: "Experimental research on the breakdown characteristics of SDBD-PA based on regression model"
+collection: publications
+permalink: /publication/Experimental research on the breakdown characteristics of SDBD-PA based on regression model
+date: 2021-11-01
+venue: 'Journal of Mechanical Engineering'
+citation: 'Y. H. Zhang, X. J. Hu, Y. C. Liu, et al. ‘Experimental research on the breakdown characteristics of SDBD-PA based on regression model,’ Journal of Mechanical Engineering 57, 2021:369-375.'
+---
+In recent years, surface dielectric barrier discharge plasma actuator(SDBD-PA) has become a research hotspot in the field of flow control. In order to study the breakdown characteristics of SDBD-PA and provide a reference for the selection of parameter interval of SDBD-PA related research, the control variable method is used to study the influence of the actuator parameters on SDBD-PA breakdown voltage and discharge stability, select the actuator parameters that have an effect on the breakdown voltage, experiment based on DOE method, use the Isight software to establish the quadratic regression model and analyze the effect of actuator parameters on the breakdown voltage. The results show that the parameters affecting the breakdown voltage and discharge stability of SDBD-PA are as follows：frequency f, electrode gap d1 and the length of the actuator L; the fitting ternary quadratic regression model is proved to have good accuracy and can be used as the prediction model of SDBD-PA breakdown voltage; f is the most influential parameter to SDBD-PA breakdown voltage, followed by L and d1; f and L have a negative effect on the breakdown voltage, while d1 has a positive effect; the interaction between d1 and f and between f and L also have a great influence on the breakdown voltage, but the interaction between d1 and L has a very small influence on the breakdown voltage. 
+
+[Download paper here](../files/Experimental%20research%20on%20the%20breakdown%20characteristics%20of%20SDBD-PA%20based%20on%20regression%20model.pdf)
