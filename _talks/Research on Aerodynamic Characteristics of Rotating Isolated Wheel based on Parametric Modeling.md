@@ -33,4 +33,6 @@ Finally, the Reduced Order Model（ROM）analysis method based on the Proper Ort
 
 ![POD Analysis](../images/Research%20on%20Aerodynamic%20Characteristics%20of%20Rotating%20Isolated%20Wheel%20based%20on%20Parametric%20Modeling-3.png)
 
+[Download my master's dissertation (in Chinese)](../files/Research%20on%20Aerodynamic%20Characteristics%20of%20Rotating%20Isolated%20Wheel%20based%20on%20Parametric%20Modeling.pdf)
+
 
