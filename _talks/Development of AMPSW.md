@@ -38,6 +38,6 @@ The result of Efficiency Test shows that by using the AMPSW, the CFD simulation 
 ![AMPSW-8](../images/AMPSW-8.JPG)
 
 Some useful links for commercial software redevelopment:
-[STAR-CCM+ Java API](https://community.sw.siemens.com/s/topic/0TO4O000000YThBWAW/simcenter-starccm-java-macros)
-[ANSA Python](https://github.com/qd-cae/qd-ansa-extension)
-[Rhino.Python](https://developer.rhino3d.com/api/RhinoScriptSyntax/)
+* [STAR-CCM+ Java API](https://community.sw.siemens.com/s/topic/0TO4O000000YThBWAW/simcenter-starccm-java-macros)
+* [ANSA Python](https://github.com/qd-cae/qd-ansa-extension)
+* [Rhino.Python](https://developer.rhino3d.com/api/RhinoScriptSyntax/)
