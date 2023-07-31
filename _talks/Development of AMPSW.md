@@ -35,7 +35,7 @@ Taking user-friendly interface as one of the most important aspect in developmen
 
 The result of Efficiency Test shows that by using the AMPSW, the CFD simulation for rotating wheel will be faster. My master's dissertation was fully supported by this program.
 
-![AMPSW-8](../images/AMPSW-8.JPG)
+![AMPSW-8](../images/AMPSW-8.png)
 
 Some useful links for commercial software redevelopment:
 * [STAR-CCM+ Java API](https://community.sw.siemens.com/s/topic/0TO4O000000YThBWAW/simcenter-starccm-java-macros)
