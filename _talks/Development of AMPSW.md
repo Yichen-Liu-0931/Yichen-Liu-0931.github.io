@@ -1,11 +1,11 @@
 ---
-title: "Development of AMPSW"
+title: "Development of Automated Modeling Platform for Simplified Wheel (AMPSW)"
 collection: talks
 permalink: /talks/Development of AMPSW
 date: 2020-02-01
 ---
 
-The AMPSW(Automated Modeling Platform for Simplified Wheel, or IsoTire CFD 2 in my master's dissertation) is developed for automated workflow of wheel modeling and CFD simulation. It contains a specific and fixed modeling method for a series of wheels with any parameters, so it could be called as the wheel standard model. One can use this program for isolated wheel CFD simulation or multi-wheel vehicle CFD simulation, even made it in wind tunnel test with 3D printing technology.
+The Automated Modeling Platform for Simplified Wheel(AMPSW, or IsoTire CFD 2 in my master's dissertation) is developed for automated workflow of wheel modeling and CFD simulation. It contains a specific and fixed modeling method for a series of wheels with any parameters, so it could be called as the wheel standard model. One can use this program for isolated wheel CFD simulation or multi-wheel vehicle CFD simulation, even made it in wind tunnel test with 3D printing technology.
 
 This platform was developed by Python and commercial software redevelopment ([Rhinoceros](https://www.rhino3d.com/en/), [ANSA](https://www.beta-cae.com/ansa.htm) and [STAR-CCM+](https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/)). It links different stages of a typical CFD simulation corresponding to different software, including modeling, pre-processing and simulation. 
 
