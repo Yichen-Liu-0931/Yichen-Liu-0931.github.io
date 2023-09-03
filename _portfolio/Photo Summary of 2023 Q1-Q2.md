@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-![Photo-2023-First-1](../images/Photo-2023-First-1.JPG)
+![Photo-2023-First-1](https://github.com/Yichen-Liu-0931/Yichen-Liu-0931.github.io/blob/master/images/Photo-2023-First-1.JPG)
 This is the Qiansimen Bridge and the Hongyadong in Chongqing, which is very famous on account of its special combination of modern bridge and old-style building. This photo was taken across the Jialing River. The slow shutter was applied to blur the visitor ship, the colorful lights reflected by the mirror-like river were so spectacular.
 ![Photo-2023-First-2](../images/Photo-2023-First-2.JPG)
 ![Photo-2023-First-3](../images/Photo-2023-First-3.JPG)
