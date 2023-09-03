@@ -12,9 +12,9 @@ Every March in Chongqing is called as ‘Time for Sakura’. The best position t
 ![Photo-2023-First-4](../images/Photo-2023-First-4.JPG)
 ![Photo-2023-First-5](../images/Photo-2023-First-5.JPG)
 There are many stories in Chongqing’s bridges. People and subways go across the bridges every day, leaving countless memorable moments. 
-[1]The first photo was taken on a rainy evening, while two people were enjoying the foggy Yuzhong Peninsula, the strong contrast of dark blue and orange represented the prosperity of traditional Chongqing’s life. 
-[2]The second photo was taken at a park, and the technique of time composition was applied to correctly capturing the pink cloud and lighted bridge, which depicts the modern side of Chongqing’s life.
-[3]The third photo is a panorama. Two bridges are distributed with balance, while the middle part is Jiefangbei CBD, one of the most prosperous regions in Chongqing.
+The first photo was taken on a rainy evening, while two people were enjoying the foggy Yuzhong Peninsula, the strong contrast of dark blue and orange represented the prosperity of traditional Chongqing’s life. 
+The second photo was taken at a park, and the technique of time composition was applied to correctly capturing the pink cloud and lighted bridge, which depicts the modern side of Chongqing’s life.
+The third photo is a panorama. Two bridges are distributed with balance, while the middle part is Jiefangbei CBD, one of the most prosperous regions in Chongqing.
 ![Photo-2023-First-6](../images/Photo-2023-First-6.JPG)
 These two photos were taken at the Heishan Valley. It was my first time to use a 15mm ultra-wide-angle lens for photography. Thanks to the great water-sealed body of Nikon, I could record the moment with extremely low speed in such a heavy rain.
 ![Photo-2023-First-7](../images/Photo-2023-First-7.JPG)
