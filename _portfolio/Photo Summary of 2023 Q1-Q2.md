@@ -8,7 +8,7 @@ collection: portfolio
 This is the Qiansimen Bridge and the Hongyadong in Chongqing, which is very famous on account of its special combination of modern bridge and old-style building. This photo was taken across the Jialing River. The slow shutter was applied to blur the visitor ship, the colorful lights reflected by the mirror-like river were so spectacular.
 ![Photo-2023-First-2](https://yichen-liu-0931.github.io/images/Photo-2023-First-2.JPG)
 ![Photo-2023-First-3](https://yichen-liu-0931.github.io/images/Photo-2023-First-3.JPG)
-Every March in Chongqing is called as ‘Time for Sakura’. The best position to record this moment is always Futuguan Parks, at which the No.2 Subway will run across the Sakura. The post-process of these photos is inspired by painting, a lower white balance is applied to strengthen the atmosphere of peace.
+Every March in Chongqing is called as ‘Time for Flower’. The best position to record this moment is always Futuguan Parks, at which the No.2 Monorail will run across the branches of the Armeniaca mume. The post-process of these photos is inspired by painting, a lower white balance is applied to strengthen the atmosphere of peace.
 ![Photo-2023-First-4](https://yichen-liu-0931.github.io/images/Photo-2023-First-4.JPG)
 ![Photo-2023-First-5](https://yichen-liu-0931.github.io/images/Photo-2023-First-5.JPG)
 There are many stories in Chongqing’s bridges. People and subways go across the bridges every day, leaving countless memorable moments. 
