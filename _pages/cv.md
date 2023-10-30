@@ -75,7 +75,7 @@ TECHNICAL SKILLS
 
 LANGUAGES
 ======
-* English (IELTS 6.0; CEFR-B2)
+* English (IELTS 6.5; CEFR-B2)
 * Japanese (J.TEST E-class; CEFR-A2)
 * Chinese (Native; CEFR-C2)
 
