@@ -75,9 +75,9 @@ TECHNICAL SKILLS
 
 LANGUAGES
 ======
-* English (IELTS 6.5; CEFR-B2)
-* Japanese (J.TEST E-class; CEFR-A2)
-* Chinese (Native; CEFR-C2)
+* English (IELTS 6.5)
+* Japanese (JLPT N3)
+* Chinese (Native)
 
 FELLOWSHIPS & AWARDS
 ======
